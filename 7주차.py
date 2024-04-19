@@ -5,7 +5,7 @@ for row in numbers:
     for element in row:
       if element % 2==0:
           results.append(element)
-          print(results)
+print(results)
 
 
 
